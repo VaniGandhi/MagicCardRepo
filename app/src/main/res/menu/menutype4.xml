@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/type41"
+        android:title="Black-Red"/>
+
+    <item
+        android:id="@+id/type42"
+        android:title="Black-Blue"/>
+
+
+
+</menu>
